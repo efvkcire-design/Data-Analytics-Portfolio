@@ -8,7 +8,7 @@ Bridging the gap between human intuition and analytical clarity. This portfolio 
 #### 📈 [Customer Segmentation & Clustering](./customer%20segmentation/)
 * **Focus:** K-Means, RFM Analysis, and Principal Component Analysis (PCA).
 * **Strategic Impact:** Developed a multi-dimensional customer framework to identify "At-Risk" vs. "High-Value" segments. This allows for targeted re-engagement campaigns, potentially reducing churn and optimizing marketing spend by prioritizing high-ROI users.
-* **Key Files:** [Interactive Clustering Code](./customer%20segmentation/ShopNow_Clustering_and_CustomerSegmentation_vera4.html) | [Strategic Report (PDF)](./customer%20segmentation/ShopNow_Clustering_CustomerSegmentation_Report.pdf)
+* **Key File:** [Strategic Report (PDF)](./customer%20segmentation/ShopNow_Clustering_CustomerSegmentation_Report.pdf)
 
 #### 🧠 [Sentiment Analysis & NLP](./sentiment%20analysis/)
 * **Focus:** VADER and HuggingFace Transformers (NLP).
