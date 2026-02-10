@@ -1,8 +1,37 @@
-## 📂 Projects
+# Data Analytics & Strategic Operations Portfolio
+## Erick Vera, MBA | Growth & Performance Strategist 
 
-* **[Customer Segmentation & Clustering](./customer%20segmentation/)**
-  * Focus: K-Means, RFM, and PCA analysis.
-* **[Sentiment Analysis & NLP](./sentiment%20analysis/)**
-  * Focus: VADER and HuggingFace sentiment modeling.
-* **[Strategic Operations & Reporting](./strategic%20reporting/)**
-  * Focus: Product launch strategy and automated reporting.
+Bridging the gap between human intuition and analytical clarity. This portfolio showcases technical proficiency in Python, SQL, and Tableau, applied to solve complex organizational challenges.
+
+
+### 📂 Projects
+
+#### 📈 [Customer Segmentation & Clustering](./customer%20segmentation/)
+* **Focus:** K-Means, RFM Analysis, and Principal Component Analysis (PCA).
+* **Strategic Impact:** Developed a multi-dimensional customer framework to identify "At-Risk" vs. "High-Value" segments. This allows for targeted re-engagement campaigns, potentially reducing churn and optimizing marketing spend by prioritizing high-ROI users.
+* **Key Files:** [Interactive Clustering Dashboard](./customer%20segmentation/Assignment4_Clustering_vera4.html)
+
+#### 🧠 [Sentiment Analysis & NLP](./sentiment%20analysis/)
+* **Focus:** VADER and HuggingFace Transformers (NLP).
+* **Strategic Impact:** Tripled the recall rate of purchase predictions by integrating customer feedback. Proved that sentiment-informed models identify subtle warning signs in customer language, enabling proactive retention strategies before a customer churns.
+* **Key Files:** [Vader Sentiment Code](./sentiment%20analysis/Assignment3_VaderSentiment.html) | [HuggingFace Comparison](./sentiment%20analysis/Assignment3HuggingFace.html)
+
+#### ⚙️ [Strategic Operations & Reporting](./strategic%20reporting/)
+* **Focus:** Difference-in-Differences (Causal Inference) and Tableau Visualization.
+* **Strategic Impact:** Quantified a 9.5-minute daily engagement boost from early app access for TechPro. Applied data visualization best practices to communicate complex commuter network patterns, ensuring data-backed clarity for executive decisions.
+* **Key Files:** [Product Launch Analysis](./strategic%20reporting/Project1TechProProductLaunch.html)
+
+#### 🔮 [Predictive Modeling & Regression](./predictive%20modeling/)
+* **Focus:** Linear & Logistic Regression, KNN, and Model Evaluation.
+* **Strategic Impact:** Built a Spotify success model proving that artist fame drives track performance ($R^2=0.212$). Evaluated Logistic vs. KNN models to determine the most interpretable strategy for executive-level decision-making and talent prioritization.
+* **Key Files:** [Spotify Regression Analysis](./predictive%20modeling/IndividualProject_vera4.html) | [Model Comparison Study](./predictive%20modeling/vera4_Individual7.html)
+
+---
+
+### 🛠 Technical Proficiency
+| Category | Tools & Techniques |
+| :--- | :--- |
+| **Languages** | Python (Pandas, Scikit-Learn), SQL |
+| **Visualization** | Tableau, Matplotlib, Seaborn |
+| **Strategy** | RFM Modeling, Causal Inference, People Analytics |
+| **Leadership** | 20+ Years in Global Brand Strategy & People Ops |
