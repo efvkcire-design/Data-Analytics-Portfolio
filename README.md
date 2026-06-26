@@ -9,8 +9,8 @@ An end-to-end global total rewards optimization model designed to manage market 
 *   **Tools Used:** Advanced Excel, Python, SQL, Workday/ADP/Pave Framework
 *   **Key Deliverables:** Dynamic salary bands, geo-tier localized adjustments (PPP), and executive-ready PCA anomaly maps.
 
-👉 [**View Full Case Study & Visualizations**](https://github.com/efvkcire-design/Data-Analytics-Portfolio/blob/main/global-compensation-model/README.md)  
-📥 [**Download Interactive Excel Model Template**](https://github.com/efvkcire-design/Data-Analytics-Portfolio/raw/main/global-compensation-model/Global_Compensation_Plan_Template.xlsx)
+👉 [**View Full Case Study & Visualizations**](global-compensation-model/README.md)  
+📥 [**Download Interactive Excel Model Template**](global-compensation-model/Global_Compensation_Plan_Template.xlsx)
 
 ---
 #### 📊 [HR Churn & Workforce Strategy](https://github.com/efvkcire-design/Data-Analytics-Portfolio/tree/main/)
