@@ -55,12 +55,13 @@ Instead of searching row-by-row for compensation errors, I applied Principal Com
 
 * **Focus:** Sentiment Analysis, Financial Risk Modeling, and Retention Strategy.
 * **Strategic Impact:** Identified a $335.8M financial exposure and developed a 90-day roadmap to reduce attrition by 20%.
-* **Key Files:** [Interactive Workforce Report (Live View)](https://efvkcire-design.github.io/Data-Analytics-Portfolio/HRChurnStrategy.html) | [People Insights Presentation (Download)](https://github.com/efvkcire-design/Data-Analytics-Portfolio/blob/main/HR_People_Insights_2025_2026%20(1).pptx)
+* **Key Files:** [Interactive Workforce Report (Live View)](https://efvkcire-design.github.io/Data-Analytics-Portfolio/HRChurnStrategy.html) | 
 
-**Presentation Preview:**
-<p align="center">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrUAZ1PPV-5YbaR4z5v-SpA4sLlXVRvVuT8CiH8iSE-r2PJvWIsBauHe9y1CIS541Nq_moPc-qdqa-/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</p>
+People insights **Presentation Preview:**
+
+👉 [**Click Here to View the Interactive Presentation Slides**](https://docs.google.com/presentation/d/e/2PACX-1vRrUAZ1PPV-5YbaR4z5v-SpA4sLlXVRvVuT8CiH8iSE-r2PJvWIsBauHe9y1CIS541Nq_moPc-qdqa-/pub)
+
+---
 
 ### 📂 Project Portfolios
 
