@@ -27,7 +27,7 @@ To make this complex workforce data actionable for executive leadership, I built
 ### 1. The Executive Summary Dashboard
 This 4-panel dashboard transforms raw payroll rows into instant corporate insights.
 
-![Executive Compensation Dashboard](https://raw.githubusercontent.com/efvkcire-design/Data-Analytics-Portfolio/main/global-compensation-model/executive_compensation_dashboard.jpg)
+![Executive Compensation Dashboard](https://github.com/efvkcire-design/Data-Analytics-Portfolio/raw/main/global-compensation-model/executive_compensation_dashboard.jpg)
 
 * **Regional Purchasing Power:** Normalizes global salaries using local cost-of-living index multipliers, proving how baseline pay stacks up from Brazil to the UK.
 * **Gender Pay Parity:** Tracks the distribution of Purchasing Power Parity (PPP) across 9 distinct business departments, sorted by gender to easily check for systemic pay gaps.
@@ -36,7 +36,7 @@ This 4-panel dashboard transforms raw payroll rows into instant corporate insigh
 ### 2. Advanced Outlier Target Map
 Instead of searching row-by-row for compensation errors, I applied Principal Component Analysis (PCA) to condense multiple factors (like tenure, level, and salary) into a 2D map. 
 
-![PCA Compensation Topology Map](https://raw.githubusercontent.com/efvkcire-design/Data-Analytics-Portfolio/main/global-compensation-model/pca_compensation_topology.jpg)
+![PCA Compensation Topology Map](https://github.com/efvkcire-design/Data-Analytics-Portfolio/raw/main/global-compensation-model/pca_compensation_topology.jpg)
 
 * **The Horizontal Axis (PC1):** Tracks standard career maturity. You can see entry-level employees on the left, moving across to executives on the far right.
 * **The Vertical Axis (PC2):** Captures internal structural deviations. 
@@ -48,7 +48,6 @@ Instead of searching row-by-row for compensation errors, I applied Principal Com
 1. **Structural Segmentation:** Separated diverse talent profiles—such as specialized design engineers requiring tech-market rates vs. operational or manufacturing teams requiring localized hourly structures—into clean job families.
 2. **Purchasing Power Parity (PPP):** Implemented a cost-of-living multiplier formula to normalize cross-border currency values and ensure equitable baseline tracking across international hubs.
 3. **Job Catalog Standardization:** Consolidated 9 separate corporate functions down to clear, uniform Level 1, 2, and 3 career progression tiers.
-
 ---
 #### 📊 [HR Churn & Workforce Strategy](https://github.com/efvkcire-design/Data-Analytics-Portfolio/tree/main/)
 
