@@ -29,7 +29,7 @@ To make this complex workforce data actionable for executive leadership, I built
 ### 1. The Executive Summary Dashboard
 This 4-panel dashboard transforms raw payroll rows into instant corporate insights.
 
-<img width="4800" height="3600" alt="executive_compensation_dashboard" src="https://github.com/user-attachments/assets/b3ea916e-7491-434c-92ba-754811a9455d" />
+👉 [**View Executive Summary Dashboard Chart**](https://github.com/user-attachments/assets/b3ea916e-7491-434c-92ba-754811a9455d)
 
 * **Regional Purchasing Power:** Normalizes global salaries using local cost-of-living index multipliers, proving how baseline pay stacks up from Brazil to the UK.
 * **Gender Pay Parity:** Tracks the distribution of Purchasing Power Parity (PPP) across 9 distinct business departments, sorted by gender to easily check for systemic pay gaps.
@@ -38,7 +38,7 @@ This 4-panel dashboard transforms raw payroll rows into instant corporate insigh
 ### 2. Advanced Outlier Target Map
 Instead of searching row-by-row for compensation errors, I applied Principal Component Analysis (PCA) to condense multiple factors (like tenure, level, and salary) into a 2D map. 
 
-<img width="3600" height="2400" alt="pca_compensation_topology" src="https://github.com/user-attachments/assets/06c16ed1-5853-4200-89dc-fac251265afb" />
+👉 [**View PCA Compensation Topology Map**](https://github.com/user-attachments/assets/06c16ed1-5853-4200-89dc-fac251265afb)
 
 * **The Horizontal Axis (PC1):** Tracks standard career maturity. You can see entry-level employees on the left, moving across to executives on the far right.
 * **The Vertical Axis (PC2):** Captures internal structural deviations. 
