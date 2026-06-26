@@ -2,6 +2,17 @@
 ## Erick Vera, MBA | Growth & Performance Strategist 
 
 ---
+## 📊 Featured Project: Global Compensation Architecture & Pay Equity Model
+
+An end-to-end global total rewards optimization model designed to manage market benchmarking, standardize job catalogs, and audit internal pay equity for a scaling workforce of 2,500 employees across the US, LATAM, and EMEA. 
+
+*   **Tools Used:** Advanced Excel, Python, SQL, Workday/ADP/Pave Framework
+*   **Key Deliverables:** Dynamic salary bands, geo-tier localized adjustments (PPP), and executive-ready PCA anomaly maps.
+
+👉 [**View Full Case Study & Visualizations**](./global-compensation-model/README.md)  
+📥 [**Download Interactive Excel Model Template**](./global-compensation-model/Global_Compensation_Plan_Template.xlsx)
+
+---
 #### 📊 [HR Churn & Workforce Strategy](https://github.com/efvkcire-design/Data-Analytics-Portfolio/tree/main/)
 
 * **Focus:** Sentiment Analysis, Financial Risk Modeling, and Retention Strategy.
